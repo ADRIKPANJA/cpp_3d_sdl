@@ -6,15 +6,16 @@ build/
     *.app
 
 # Lib files
-SDL2/lib/*.a
+SDL2/lib/
 SDL2/bin/
 SDL2/share/
 
 *.sdl
 
 # Obj files
-*.obj
-*.o
+objs/
+    *.obj
+    *.o
 
 .vscode/
 .idea/

@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Make header files detect as C++
+*.h linguist-language=C++

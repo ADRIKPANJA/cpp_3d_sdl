@@ -1,0 +1,20 @@
+# Binary files
+build/
+    *.dll
+    *.so
+    *.exe
+    *.app
+
+# Lib files
+SDL2/lib/*.a
+SDL2/bin/
+SDL2/share/
+
+*.sdl
+
+# Obj files
+*.obj
+*.o
+
+.vscode/
+.idea/
